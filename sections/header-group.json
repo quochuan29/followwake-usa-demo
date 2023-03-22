@@ -1,0 +1,1 @@
+{"type":"header","name":"t:sections.header-group.name","sections":{"header":{"type":"header","settings":{"sticky_index":true,"sticky_collection":false,"header_search_enable":true}},"announcement-bar":{"type":"announcement-bar","disabled":true,"settings":{}}},"order":["announcement-bar","header"]}
